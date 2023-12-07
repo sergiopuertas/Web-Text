@@ -11,4 +11,8 @@
 Then put 'cc.en.100.vec' and the folder '40' in the same folder as the notebook
 
 ### Installation
-We use the same conda environment as described in d2l.ai : [Installing the Deep Learning Framework and the d2l Package](https://www.d2l.ai/chapter_installation/index.html#:~:text=conda%20activate%20d2l-,Installing%20the%20Deep%20Learning%20Framework%20and%20the%20d2l%20Package,-%C2%B6)
+We use the same conda environment as described in d2l.ai : [Installing the Deep Learning Framework and the d2l Package](https://www.d2l.ai/chapter_installation/index.html#:~:text=conda%20activate%20d2l-,Installing%20the%20Deep%20Learning%20Framework%20and%20the%20d2l%20Package,-%C2%B6),
+
+also install `gensim` and `scipy`
++ ``` conda install -c conda-forge gensim ```
++ ``` conda install -c conda-forge scipy ```
